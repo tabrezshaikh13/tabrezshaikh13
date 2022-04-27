@@ -1,5 +1,3 @@
-
-
 <h3 align="left">🤝 Connect</h3>
 
 <a href="https://linkedin.com/in/tabrezshaikh13" target="blank">
@@ -111,16 +109,23 @@ Built a basic console-based Tic-Tac-Toe game using Java.
 <h5>🛠️ Tools</h5>
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </p>
 
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabrezshaikh13&show_icons=true&locale=en&layout=compact" alt="tabrezshaikh13" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabrezshaikh13&show_icons=true&locale=en" alt="tabrezshaikh13" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabrezshaikh13&" alt="tabrezshaikh13" /></p>  
+<h3>📊 Statistics</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabrezshaikh13&langs_count=4&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Tabrez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabrezshaikh13&show_icons=true&theme=tokyonight)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabrezshaikh13&theme=tokyonight" alt="tabrezshaikh13" />
