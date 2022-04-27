@@ -132,3 +132,5 @@ Built a basic console-based Tic-Tac-Toe game using Java.
 ![Tabrez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabrezshaikh13&show_icons=true&theme=tokyonight)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabrezshaikh13&theme=tokyonight" alt="tabrezshaikh13" />
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tabrezshaikh13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
