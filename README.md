@@ -86,7 +86,7 @@ Built a basic console-based Tic-Tac-Toe game using Java.
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/tabrezshaikh13?tab=repositories)  
   
-- 📝 I write articles on [Medium](medium.com/@tabrezshaikh13)  
+- 📝 I write articles on [Medium](https://tabrezshaikh13.medium.com)  
   
 - 💬 Ask me about **Java, MySQL, Spring-Boot, AWS,**  
   
