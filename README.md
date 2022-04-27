@@ -18,6 +18,9 @@
 <a href="https://instagram.com/tabrezshaikh13" target="blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href="https://twitter.com/tabrez_shaikh13" target="blank">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
 
 <p align="right"> <img  src="https://komarev.com/ghpvc/?username=tabrezshaikh13&label=Profile%20views&color=0e75b6&style=flat" alt="tabrezshaikh13" /> </p>
 
