@@ -97,8 +97,8 @@ Built a basic console-based Tic-Tac-Toe game using Java.
 - ⚡ Fun fact: **I like coffee more than I like tea.**
 <hr>
 
-<h3  align="left">🧬 Skills</h3>
-<h5>📱 Technologies</h5>
+<h3  align="left">🧠 Skills</h3>
+<h5>📡 Technologies</h5>
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
