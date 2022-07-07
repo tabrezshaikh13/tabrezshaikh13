@@ -53,6 +53,15 @@ Jan 2020 - Feb 2020
 Visited several colleges in the vicinity to promote technical and non-technical events hosted by Anantrao Pawar College of Engineering & Research's ISTE student organization and invited students from different colleges to participate in the events.
 <hr>
 
+<h3>📰 Publications</h3>
+
+ ⭕ **Face Mask Detection and Face Recognition Using Machine Learning**  
+*International Journal of Scientific Research in Engineering and Management · Dec 26, 2021*  
+[Show Publication](https://ijsrem.com/download/face-mask-detection-and-face-recognition-using-machine-learning/)  
+*Other Authors*: [Shubham Thorve](https://www.linkedin.com/in/shubhamthorve?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publication_authors%3Bs1cn9tU7QHGB7tPX4lYUZA%3D%3D), [Rutuja Kutwal](https://www.linkedin.com/in/rutujakutwal?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publication_authors%3Bs1cn9tU7QHGB7tPX4lYUZA%3D%3D), [Taher Travadi](https://www.linkedin.com/in/taher-travadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publication_authors%3Bs1cn9tU7QHGB7tPX4lYUZA%3D%3D)  
+*Abstract*: This Research establishes a safety system for mask detection during this COVID-19 pandemic. Face mask detection has seen an overwhelming growth in the realm of Computer vision and deep learning, since the unprecedented COVID-19 global pandemic that has mandated wearing masks in public places. To tackle the situation, we have come up with a system which uses several algorithms and techniques to identify unmasked individuals using various mask detection models and such people will be charged fines for violating rules. The proposed approach in this project adopts frameworks of deep learning, TensorFlow, Keras and OpenCV libraries to detect face masks in real-time. To detect masks, initially, the model is trained using the multi-Task Cascade Convolutional Neural Network (MTCNN) algorithm with the database of faces provided. The face is first detected using OpenCV (Open-Source Computer Vision) and those image frames are stored and passed to the mask detection classifier for classification. For facial detection, the Viola Jones algorithm is used, which is also known as the Haar Cascade algorithm.
+<hr>
+
 <h3>🧩 Projects</h3>
 
  ⭕ **JabAlert**  
