@@ -24,7 +24,7 @@
 <hr>
 <p align="center"> <img  src="https://komarev.com/ghpvc/?username=tabrezshaikh13&label=Profile%20views&color=0e75b6&style=flat" alt="tabrezshaikh13" /> </p>
 
-<h1 align="center">Hello World 👋, I'm Tabrez Shaikh</h1>
+<h1 align="center">Hello World 👋, I'm Tabrez</h1>
 <h4 align="center">Bachelor Year Computer Engineering Student at Anantrao Pawar College of Engineering & Research. </h4>
 
 <h3>ℹ️ About</h3>
@@ -94,7 +94,7 @@ Built a basic console-based Tic-Tac-Toe game using Java.
   
 - 📫 Email me at **tabrezshaikh17970@gmail.com**  
   
-- 📄 View my [Curriculum Vitae](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bb99335e-0f7d-4e5a-88d7-046f0840aa24/TabrezShaikh-D6-CV.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220427%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220427T104320Z&X-Amz-Expires=86400&X-Amz-Signature=8a8d1342a7fcd91ba940127d0c6064d12aed068ef0e21fc1aad3217617d74baa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Curriculum%2520Vitae.pdf%22&x-id=GetObject)  
+- 📄 View my [Curriculum Vitae](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2f4b85e-cb0a-4259-a960-328a3c0e561a/TabrezShaikh-CV-D9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T020931Z&X-Amz-Expires=86400&X-Amz-Signature=1006956bdd33e21ae424a2fe7a3e51eab60bce40ff8a72efd11fc69fcd4c0cce&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22TabrezShaikh-CV-D9.pdf%22&x-id=GetObject)  
   
 - ⚡ Fun fact: **I like coffee more than I like tea.**
 <hr>
