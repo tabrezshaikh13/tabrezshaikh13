@@ -25,12 +25,23 @@
 <p align="center"> <img  src="https://komarev.com/ghpvc/?username=tabrezshaikh13&label=Profile%20views&color=0e75b6&style=flat" alt="tabrezshaikh13" /> </p>
 
 <h1 align="center">Hello World 👋, I'm Tabrez</h1>
-<h4 align="center">Bachelor Year Computer Engineering Student at Anantrao Pawar College of Engineering & Research. </h4>
+<h4 align="center">Software Developer | Bachelor of Engineering </h4>
 
 <h3>ℹ️ About</h3>
-<p> I am a bachelor year student pursuing Bachelor of Engineering (B.E) in Computer Engineering at Savitribai Phule Pune University.
+<p> I consider myself to be hard-working and determined when it comes to responsibilities. I am passionate about new technologies and always intrigued by the advancements in them. My fascination with computers and related technologies has helped me become a skillful and competent individual. I am always eager to learn and understand new technologies and never give up on something until I get it done right or excel at it. I accept new challenges that come my way and try to face them with a positive attitude.
 
-I consider myself to be hard-working and determined when it comes to responsibilities. I am passionate about new technologies and always intrigued by the advancements in them. My fascination with computers and related technologies has helped me become a skillful and competent individual. I am always eager to learn and understand new technologies and never give up on something until I get it done right or excel at it. I accept new challenges that come my way and try to face them with a positive attitude. </p>
+Working as a Software Developer Trainee, I provide technical services to a London-based AI-powered payments gateway company on the Sanctions track which helps in screening Trade-based Money Laundering (TBML) and Fraud Detections helping the banks adhere to Financial Crime Compliances during cross-border transactions.</p>
+<hr>
+
+<h3>🏢 Experience</h3>
+
+ ⭕ **Software Developer Trainee**<br>
+ *Techbulls SoftTech Pvt Ltd - Pune, India*<br>
+ *May 2022 - Present*<br>
+ Working as a Software Developer Trainee, I provide technical services to a London-based AI-powered payments gateway company on the Sanctions track which helps in     screening Trade-based Money Laundering (TBML) and Fraud Detections helping the banks adhere to Financial Crime Compliances during cross-border transactions.<br>
+At present, I am getting trained in technologies like Java, Spring Framework, MySQL, Oracle SQL, PLSQL, MyBatis (ORM) Framework, JavaScript, AngularJS, HTML, Bootstrap, Git, AWS, and Linux OS.
+
+
 <hr>
 <h3>🎓 Education</h3>
 
