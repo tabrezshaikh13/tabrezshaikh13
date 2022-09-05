@@ -94,7 +94,7 @@ Built a basic console-based Tic-Tac-Toe game using Java.
   
 - 📫 Email me at **tabrezshaikh17970@gmail.com**  
   
-- 📄 View my [Curriculum Vitae](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2f4b85e-cb0a-4259-a960-328a3c0e561a/TabrezShaikh-CV-D9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T020931Z&X-Amz-Expires=86400&X-Amz-Signature=1006956bdd33e21ae424a2fe7a3e51eab60bce40ff8a72efd11fc69fcd4c0cce&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22TabrezShaikh-CV-D9.pdf%22&x-id=GetObject)  
+- 📄 View my [Curriculum Vitae](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cb9bf5d4-4b0a-4a14-8baf-25dd9c606d0b/TabrezShaikh-CV-D10.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220905%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220905T151704Z&X-Amz-Expires=86400&X-Amz-Signature=89bd10484d52c52d5903876fca22dc941bfa3a8eeaee0acc241aee9094b02f31&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22TabrezShaikh-CV-D10.pdf%22&x-id=GetObject)  
   
 - ⚡ Fun fact: **I like coffee more than I like tea.**
 <hr>
