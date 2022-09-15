@@ -38,8 +38,7 @@ Working as a Software Developer Trainee, I provide technical services to a Londo
  ⭕ **Software Developer Trainee**<br>
  *Techbulls SoftTech Pvt Ltd - Pune, India*<br>
  *May 2022 - Present*<br>
- Working as a Software Developer Trainee, I provide technical services to a London-based AI-powered payments gateway company on the Sanctions track which helps in     screening Trade-based Money Laundering (TBML) and Fraud Detections helping the banks adhere to Financial Crime Compliances during cross-border transactions.<br>
-At present, I am getting trained in technologies like Java, Spring Framework, MySQL, Oracle SQL, PLSQL, MyBatis (ORM) Framework, JavaScript, AngularJS, HTML, Bootstrap, Git, AWS, and Linux OS.
+Working as a Software Developer, I provide services to a London-based AI-powered payments gateway company on the Sanctions track which helps in screening Trade-based Money Laundering (TBML) and Fraud Detections helping the banks adhere to Financial Crime Compliances during Cross-Border Transactions.
 
 
 <hr>
