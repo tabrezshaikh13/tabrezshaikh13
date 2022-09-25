@@ -35,7 +35,7 @@ Working as a Software Developer Trainee, I provide technical services to a Londo
 
 <h3>🏢 Experience</h3>
 
- ⭕ **Software Developer Trainee**<br>
+ ⭕ **Software Developer**<br>
  *Techbulls SoftTech Pvt Ltd - Pune, India*<br>
  *May 2022 - Present*<br>
 Working as a Software Developer, I provide services to a London-based AI-powered payments gateway company on the Sanctions track which helps in screening Trade-based Money Laundering (TBML) and Fraud Detections helping the banks adhere to Financial Crime Compliances during Cross-Border Transactions.
